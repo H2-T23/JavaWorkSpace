@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<root>
+    <customer>
+        <address>Tokyo</address>
+        <name>tokugawa ieyashu</name>
+    </customer>
+    <customer>
+        <address>osaka</address>
+        <name>toyotomi hideyoshi</name>
+    </customer>
+</root>

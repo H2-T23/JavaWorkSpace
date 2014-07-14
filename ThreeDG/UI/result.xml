@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<root>
+    <customer>
+        <address>Tokyo</address>
+        <name>tokugawa ieyashu</name>
+    <mail>xxxxx.co.jp</mail>
+        <tel>030-0000-0000</tel>
+    </customer>
+<customer>
+        <address>Fukuoka</address>
+        <name>Fujiwara no</name>
+    </customer>
+</root>
